@@ -38,6 +38,10 @@ content: '(';
 div #bef::after{
 content: ')';
 }
+span>b{
+	font-weight: normal;
+	font-size: 16px;
+}
 p.head{
 	font-weight: bold;
 	font-size: 40px;
